@@ -1,0 +1,29 @@
+.resumo-header-par {
+  background-color: papayawhip;
+  border: 1px solid;
+}
+
+.resumo-header-impar {
+  background-color: honeydew;
+  border: 1px solid;
+}
+
+hr {
+	color: #000;
+  background-color: #000;
+	height: 1px;
+}
+
+.login{
+  padding-top: 14%;
+}
+
+.login-form{
+  padding-top: 3%;
+  background-color: teal;
+  color: white;
+}
+
+.btn-success{
+    background-color: slategrey;
+}
